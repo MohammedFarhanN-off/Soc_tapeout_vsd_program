@@ -36,7 +36,7 @@
     AC appliances (home systems)
     The C testbench executable confirms proper functioning in real-world applications.
     
-## Final Statement
+## O0 = O1 = O2 = O3 = O4
 
     To ensure successful chip modeling and implementation, all stages — O0 (GCC Compiler) through O4 (Fabricated Applications) — must be executed correctly, with the C testbench applied equally at every stage for validation.
 
